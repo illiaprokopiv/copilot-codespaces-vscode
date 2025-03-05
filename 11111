@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechHaven – Продаж ноутбуків</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>TechHaven – Найкращі ноутбуки за вигідними цінами!</h1>
+    </header>
+
+    <section class="products">
+        <h2>Наші ноутбуки</h2>
+        <div class="product-list" id="product-list">
+            <!-- Сюди будуть додані ноутбуки через JavaScript -->
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 TechHaven | Телефон: +380 XX XXX XX XX | Telegram: @TechHaven</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
